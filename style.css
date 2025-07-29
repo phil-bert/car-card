@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.cars {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: white;
+}
+.car-text {
+    font-size: 30px;
+    color: darkblue;
+}
+p {
+    color: grey;
+    margin: 30px 0;
+}
+.button {
+    background-color: orangered;
+    border-radius: 8px;
+    color: white;
+    padding: 12px 20px;
+}
+.car-image {
+    max-width: 500px;
+    width: 100%;
+}
+.Car {
+    text-align: center;
+}
+.car-block {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.car-cards {
+    background: whitesmoke;
+    border-radius: 16px;
+    padding: 10px;
+    width: 260px;
+}
+img {
+    width: 100%;
+    border-radius: 8px;
+}
+.price {
+    color: green;
+}
+nav {
+    display: flex;
+    align-items: center;
+    padding: 20px 40px;
+    justify-content: space-between;
+}
+footer {
+    margin-top: 5%;
+    padding: 15px;
+    background-color: #6A89A7;
+    color: black;
+}
+.grid {
+    display: grid;
+    margin: 20px;
+}
+
+#so {
+    color: black;
+}
+.footer-flex {
+    display: flex;
+}
